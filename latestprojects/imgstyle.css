@@ -1,0 +1,46 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  background-color: #222;
+}
+
+.separator{
+	margin-top:5%
+}
+
+.bg {
+  /* The image used */
+
+  /* Full height */
+  height: 80%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain
+}
+
+#latest1{
+  background-image: url(../imgs/latest/1.png);
+}
+
+#latest2{
+  background-image: url(../imgs/latest/2.png);
+}
+
+#latest3{
+  background-image: url(../imgs/latest/3.png);
+}
+
+#latest4{
+  background-image: url(../imgs/latest/4.png);
+}
+
+#latest5{
+  background-image: url(../imgs/latest/5.png);
+}
+
+#latest6{
+    background-image: url(../imgs/latest/6.png);
+}
